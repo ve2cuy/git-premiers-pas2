@@ -12,6 +12,7 @@ class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
+        print("Je suis aussi la ligne 15")
         print("ViewController:viewDidLoad")
         
     }
